@@ -1,8 +1,6 @@
 # Education_Game_Quiz
 
-Este projeto **simula o preço de imóveis** com base em dados fornecidos pelo *usuário*, como o *tamanho do imóvel*, *localização*, *número de quartos*, *idade*, e *proximidade de serviços essenciais (transporte, escola e hospital)*. O código aplica diferentes fatores de multiplicação para ajustar o preço do **m²** conforme a *cidade* e a *localização do imóvel*. Ao final, é gerado o *preço total do imóvel*, levando em consideração todos esses parâmetros, e o resultado é apresentado ao usuário de forma detalhada.
-
-**Se encontra abaixo um artigo explicando mais detalhadamente sobre o projeto**
+Este projeto é um **jogo educativo interativo**, onde o usuário pode **criar perguntas e respostas personalizadas**, configurar o número de tentativas e ativar ou não dicas. O objetivo é testar conhecimentos de forma divertida, simulando um mini RPG de perguntas e respostas direto no terminal, com feedback de acertos e erros em tempo real.
 
 ## Artigo
-[Jogo/Quiz Educacional - Artigo](https://drive.google.com/file/d/1NJqusPnwiir__ifJgm3Q5Bam-An8v9tN/view?usp=drive_link)
+[Jogo/Quiz Educacional - Artigo]()
